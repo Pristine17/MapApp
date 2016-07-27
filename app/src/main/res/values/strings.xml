@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">The service is not available</string>
+    <string name="invalid_lat_long_used">invalid lat/long</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+    <string name="no_geocoder_available">no geocoder</string>
+
+</resources>
